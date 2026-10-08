@@ -4,3 +4,4 @@ pyjwt
 passlib[bcrypt]
 httpx
 apscheduler
+email-validator
