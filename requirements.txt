@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pyjwt
+passlib[bcrypt]
+httpx
+apscheduler
