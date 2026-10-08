@@ -2,6 +2,7 @@ fastapi
 uvicorn[standard]
 pyjwt
 passlib[bcrypt]
+bcrypt==4.0.1
 httpx
 apscheduler
-email-validator
+email-validator`
